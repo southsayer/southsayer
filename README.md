@@ -1,5 +1,4 @@
-<h3>I'm Akshit from a galaxy far, far away 🌌. I am an Electronics engineer 🐱‍💻, Web Developer 🌐 and a Student 🎓. </h3>
-<h3>I enjoy coding and love to learn new technologies 👨‍💻.</h3>
+<h3>I'm Akshit from a galaxy far, far away 🌌. I am an Electronics engineer 🐱‍💻, Web Developer 🌐 and a Student 🎓. I enjoy coding and love to learn new technologies 👨‍💻.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=southsayer&label=Profile%20views&color=0e75b6&style=flat" alt="southsayer" /> </p>
 
